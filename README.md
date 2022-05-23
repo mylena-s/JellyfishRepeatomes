@@ -2,12 +2,12 @@
 Supplementary files for Chapter 2 of my master's dissertation "Jellyfish repeatomes uncover hidden satellite diversity and provide insights into the C-value enigma"
 
 
-﻿The files and directories included in this folder include the following:
+﻿The files and directories included in this folder correspond to "Supplementary file S1" of the dissertation
+ and include the following:
 
+directory/file			                    		description
 
-# directory/file			                    		description
-
-/RepeatExplorer/			                    	directory including datasets resulting from RE2 pipeline                    
+/RepeatExplorer/			                directory including datasets resulting from RE2 pipeline                    
                                          		and the scripts used to process them and carry on                      
                                         		statistics.
                                         		
@@ -18,11 +18,11 @@ Supplementary files for Chapter 2 of my master's dissertation "Jellyfish repeato
                                         		gaps and ends.
 						
 /RepeatExplorer/ScyphoSat_table 		      	table containing all information regarding satellite
-				                               	  	monomers obtained with RE2, including manual curation   
-                               	  	      	information, classification and sequence information.
+				                       	monomers obtained with RE2, including manual curation   
+                               	  	     	 	information, classification and sequence information.
 
-/RepeatExplorer/assemblySat_plots.py 		    Python script to plot the distribution of intragenomic
-					                                  divergence of satellites in assemblies and reads.
+/RepeatExplorer/assemblySat_plots.py 			Python script to plot the distribution of intragenomic
+					               	divergence of satellites in assemblies and reads.
 
 /RepeatExplorer/Genus_ComparisonStats.py		Python script to compare satDNA features distribution in 
                                          		samples of the same genus.
@@ -35,11 +35,11 @@ Supplementary files for Chapter 2 of my master's dissertation "Jellyfish repeato
 /RepeatExplorer/filterBlastn.py         		Python script to classify satDNA blast hits as variants, 
                                         		families and superfamilies.
 
-/dnaPipeTE/		            		            	directory including datasets resulting from dnaPipeTE and 
+/dnaPipeTE/		            		        directory including datasets resulting from dnaPipeTE and 
                                         		the scripts used to process them and carry on statistics 
 		  
 /dnaPipeTE/SupplementaryTableS2extended 		general repetitive content information including
-					                                  detailed abundance information about all TE Superfamilies
+					                detailed abundance information about all TE Superfamilies
 						
 /dnaPipeTE/dnaPipeTE_spearmanr.R	      		R script used for statistical analysis between genome      
                                         		size and dnaPipeTE results		
