@@ -1,5 +1,5 @@
 # JellyfishRepeatomes
-Supplementary files for Chapter 2 of my master's dissertation "Jellyfish repeatomes uncover hidden satellite diversity and provide insights into the C-value enigma"
+Supplementary files for Chapter 2 of my master's dissertation: "Jellyfish repeatomes uncover hidden satellite diversity and provide insights into the C-value enigma"
 
 
 ﻿The files and directories included in this folder correspond to "Supplementary file S1" of the dissertation
