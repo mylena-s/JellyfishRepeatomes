@@ -19,3 +19,4 @@ Supplementary files for Chapter 2 of my master's dissertation: "Jellyfish repeat
 |/dnaPipeTE/SupplementaryTableS2extended 		|general repetitive content information including detailed abundance information about all TE Superfamilies
 |/dnaPipeTE/dnaPipeTE_spearmanr.R	      		|R script used for statistical analysis between genome size and dnaPipeTE results		
 |/dnaPipeTE/filter_RTcompleteness.py	    		|Python script used for filtering protein domains with coverage below certain threshold
+|/dnaPipeTE/RenameContigs.py               | Python script to rename dnaPipeTE unclassified contigs using TEsorter output
