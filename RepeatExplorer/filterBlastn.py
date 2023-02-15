@@ -5,6 +5,7 @@
 import pandas as pd
 
 #load blast results and rename important columns
+#blast run should be produced using format 6: -outfmt '6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qlen'
 blastdf = pd.read_csv("all_vs_all_blast.out", sep="\t", header=None, skiprows=5)
 blastdf = blastdf.rename(columns={0: 'Sequence_name_1',
                                   1:'Sequence_name_2',
